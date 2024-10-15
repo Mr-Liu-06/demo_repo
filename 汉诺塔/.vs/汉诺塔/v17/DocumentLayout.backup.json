@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c\\\u6C49\u8BFA\u5854\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC319222-6CE1-449B-95D3-7EBB21275683}|\u6C49\u8BFA\u5854\\\u6C49\u8BFA\u5854.vcxproj|D:\\c\\\u6C49\u8BFA\u5854\\\u6C49\u8BFA\u5854\\Hanoi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC319222-6CE1-449B-95D3-7EBB21275683}|\u6C49\u8BFA\u5854\\\u6C49\u8BFA\u5854.vcxproj|solutionrelative:\u6C49\u8BFA\u5854\\Hanoi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hanoi.cpp",
+              "DocumentMoniker": "D:\\c\\\u6C49\u8BFA\u5854\\\u6C49\u8BFA\u5854\\Hanoi.cpp",
+              "RelativeDocumentMoniker": "\u6C49\u8BFA\u5854\\Hanoi.cpp",
+              "ToolTip": "D:\\c\\\u6C49\u8BFA\u5854\\\u6C49\u8BFA\u5854\\Hanoi.cpp",
+              "RelativeToolTip": "\u6C49\u8BFA\u5854\\Hanoi.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T14:49:08.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
